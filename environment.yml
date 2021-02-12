@@ -1,0 +1,8 @@
+name: gi-pygmt-2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - obspy
+  - pygmt
