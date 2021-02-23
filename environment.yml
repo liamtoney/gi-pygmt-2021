@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - geocoder
   - jupyterlab
   - obspy
   - pygmt=0.3.0
