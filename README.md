@@ -4,6 +4,6 @@
 
 This repository contains materials for the 2021 PyGMT short course at the
 University of Alaska Fairbanks (UAF) Geophysical Institute (GI). The course,
-which will take place on 1 March 2021, is hosted by Liam Toney
-([ldtoney@alaska.edu](mailto:ldtoney@alaska.edu)) and is open to all GI staff,
+which took place on 1 March 2021, was hosted by Liam Toney
+([ldtoney@alaska.edu](mailto:ldtoney@alaska.edu)) and was open to all GI staff,
 students, and faculty — and affiliates.
